@@ -36,4 +36,4 @@ E para finalizar o código, foi calculado o valor de k, a classe de equivalênci
 
 ### Observação
 
-Pòr se tratar de um DataSet aleatório, a cada vez que o código for executado serão gerados dados diferentes e, por consequência, um valor de k diferente.
+Por se tratar de um DataSet aleatório, a cada vez que o código for executado serão gerados dados diferentes e, por consequência, um valor de k diferente.
